@@ -1,1 +1,1 @@
-# Zoom-Video-Downloader
+# Zoom-Video-Downloader-Browser-Extention
