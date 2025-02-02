@@ -1,0 +1,19 @@
+.download-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 99999;
+  padding: 10px 20px;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.download-button:hover {
+  background-color: #1976D2;
+}
